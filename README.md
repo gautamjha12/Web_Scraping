@@ -1,7 +1,7 @@
 # Web_Scraping
 This scraper scraps the Quotes on the site.
 
-# You need to replace the given links for desired quotes to be crawled
+## You need to replace the given links for desired quotes to be crawled
 
 ## Sites:
 
